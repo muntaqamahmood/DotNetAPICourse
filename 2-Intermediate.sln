@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "1-HelloWorld_Models\HelloWorld.csproj", "{6FF6A038-B41F-42DA-B9C1-F7AB67AED0F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld (1)", "2-HelloWorld_NameSpaces\HelloWorld.csproj", "{DE86337D-A664-4110-8D5A-7F2B242B2072}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld (2)", "3-HelloWorld_Database\HelloWorld.csproj", "{F40954F2-F25B-4617-BFD2-58F5146D7A0F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld (3)", "4-HelloWorld_Config\HelloWorld.csproj", "{F71599ED-BC0D-47E8-AF57-7281080E3267}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld (4)", "5-HelloWorld_Files\HelloWorld.csproj", "{1209A921-4CE2-415D-9345-5B52956F743D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld (5)", "6-HelloWorld_JSON\HelloWorld.csproj", "{EA306EED-5423-4D8F-9888-488A123053CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld (6)", "7-HelloWorld_Mapping\HelloWorld.csproj", "{7A9DEB60-22F1-404E-826F-4C73CF7958E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF6A038-B41F-42DA-B9C1-F7AB67AED0F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF6A038-B41F-42DA-B9C1-F7AB67AED0F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF6A038-B41F-42DA-B9C1-F7AB67AED0F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF6A038-B41F-42DA-B9C1-F7AB67AED0F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE86337D-A664-4110-8D5A-7F2B242B2072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE86337D-A664-4110-8D5A-7F2B242B2072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE86337D-A664-4110-8D5A-7F2B242B2072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE86337D-A664-4110-8D5A-7F2B242B2072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40954F2-F25B-4617-BFD2-58F5146D7A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40954F2-F25B-4617-BFD2-58F5146D7A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40954F2-F25B-4617-BFD2-58F5146D7A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40954F2-F25B-4617-BFD2-58F5146D7A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F71599ED-BC0D-47E8-AF57-7281080E3267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F71599ED-BC0D-47E8-AF57-7281080E3267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F71599ED-BC0D-47E8-AF57-7281080E3267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F71599ED-BC0D-47E8-AF57-7281080E3267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1209A921-4CE2-415D-9345-5B52956F743D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1209A921-4CE2-415D-9345-5B52956F743D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1209A921-4CE2-415D-9345-5B52956F743D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1209A921-4CE2-415D-9345-5B52956F743D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA306EED-5423-4D8F-9888-488A123053CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA306EED-5423-4D8F-9888-488A123053CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA306EED-5423-4D8F-9888-488A123053CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA306EED-5423-4D8F-9888-488A123053CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9DEB60-22F1-404E-826F-4C73CF7958E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9DEB60-22F1-404E-826F-4C73CF7958E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9DEB60-22F1-404E-826F-4C73CF7958E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9DEB60-22F1-404E-826F-4C73CF7958E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE00349B-DEC5-48ED-A28D-4401C1A77B68}
+	EndGlobalSection
+EndGlobal
